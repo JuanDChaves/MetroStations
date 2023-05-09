@@ -2,18 +2,15 @@ La empresa “UTN FRA Robotics” ganó la licitación de un proyecto, y deberá
 El sistema deberá arrancar apagado, luego de accionar el interruptor empezará y hará lo pedido.
 Deberá recorrer las estaciones comenzando por constitución y mostrará en el display 7 segmentos cuantas estaciones faltan para llegar a moreno, cada vez que llega a una estación realiza un sonido el buzzer.
 
-# Ejemplo Documentación
-
-![Tinkercad](./img/ArduinoTinkercad.jpg)
+# METRO STATIONS
 
 ## Integrantes
 
-- Esteban M. Quiroz
-- Dario Cuda
+- Juan David Chaves Rodriguez
 
 ## Proyecto: Contador binario.
 
-![Tinkercad](./img/ContadorBinario.png)
+![Tinkercad](./img/subte02.png)
 
 ## Descripción
 

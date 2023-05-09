@@ -16,12 +16,20 @@ Deberá recorrer las estaciones comenzando por constitución y mostrará en el d
 
 ## Función principal
 
-```C (lenguaje en el que esta escrito)
-loop() Es la función principal. En loop() está declarado, por medio de un if, el funcionamiento del Slideswitch.
+```C
+loop()
+```
+
+Es la función principal. En loop() está declarado, por medio de un if, el funcionamiento del Slideswitch.
 Cuando este se encuentre encendido se inicia el programa, cuando no, el programa se detiene y se reinicia.
 
-Las funciones printNumber(int number), turnOff(), turnOffLED() encienden y apagan los leds dependiendo del contador de estaciones faltantes.
+```C
+printNumber(int number);
+turnOff();
+turnOffLED();
 ```
+
+Son funciones que encienden y apagan los leds dependiendo del contador de estaciones faltantes.
 
 ## :robot: Link al proyecto
 
